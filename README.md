@@ -2,9 +2,10 @@
 
 ## 🚀 Instructions 
 
-1. vinylgrid will detect your projects in your music and downloads folder.
-2. It will detect every folder with a cover.jpg image inside.
-3. If the folder has audio files in it they will appear in that projects playlist.
+1. Get vinylgrid from vinylgrid.com [link](http://vinylgrid.com/)
+2. vinylgrid will detect your projects in your music and downloads folder.
+3. It will detect every folder with a cover.jpg image inside.
+4. If the folder has audio files in it they will appear in that projects playlist.
 
 ## 🌟 Requirements
 
